@@ -8,41 +8,50 @@
 
 ## Career Objective
 
-**Junior Backend Engineer** passionate about building scalable systems and real-time data processing. Eager to build microservices, optimize performance, and learn best practices in cloud infrastructure and data-driven solutions. Looking to grow with a dynamic, product-focused team.
+**Mid-Level Backend Engineer** with nearly 3 years of experience building scalable distributed systems and high-performance data platforms. Specialized in event-driven architectures, real-time data processing, and AI integration using Python, Django, and AWS.
 
 ---
 
 ## Work Experience
 
-### Backend Engineer  
-**[Golden Owl Solutions Corporation](https://goldenowl.asia/)**  
-_July 2023 – April 2025_  
-Responsible for designing and maintaining backend systems using Django and FastAPI. Worked closely with cross-functional teams to deliver features, improve performance, and ensure reliability.
+### Backend Engineer
+**[Parcel Perform](https://www.parcelperform.com/)**
+_May 2025 – Present_
+Building high-intensive data platforms with distributed systems and event-driven architecture for logistics services.
 
 #### Projects
 
-- **[Vividize](https://www.vividize.io/)** — `Django, DRF, PostgreSQL, Redis, Celery, AWS, GitHub Actions`  
-  - Designed and deployed infrastructure using AWS services including S3, EC2, RDS, Route 53, CloudFront.  
-  - Set up CI/CD pipelines with GitHub Actions for automated testing and deployment.  
-  - Built an AI-powered content server that generated over 6,000 lessons for the platform.  
-  - Optimized content delivery paths, reducing load time from 3 minutes to under 3 seconds.
+- **Tracking Service** — `Python, Django, Kafka, Redis, Clickhouse, AWS`
+  - Developing real-time parcel tracking system handling large-scale logistics data streams.
 
-- **[InvestGlass](https://www.investglass.com/)** — `Django, DRF, MinIO, pgvector`  
-  - Designed, implemented, and deployed a RAG-based AI chat agent using the OpenAI API to enable contextual conversations from CRM documents and internal pages.  
-  - Developed APIs for real-time risk calculation and backtesting of securities and portfolios.  
-  - Wrote and maintained clear technical documentation for internal and external use.
+- **Booking Service** — `Python, Django, Kafka, Redis, AWS`
+  - Building booking workflow APIs for logistics operations.
 
-- **[eKYC](https://www.finexis.com.sg/)** — `Django, DRF, MVT, MySQL, Redis`  
-  - Developed a KYC workflow to support financial consultants in completing client forms efficiently.  
-  - Integrated third-party services including Singpass and FWD for identity verification and insurance data.  
-  - Developed APIs with throttling and rate limiting to ensure system stability; prepared comprehensive technical documentation.  
-  - Implemented core business logic and provided ongoing maintenance.
+- **Collection Points** — `Python, Django, Kafka, Clickhouse, AWS Bedrock`
+  - Implementing collection point management system with AI-powered optimization.
 
-- **[VoiceReplay](https://voicereplay.ai/)** — `FastAPI, PostgreSQL, SQLAlchemy, Alembic, NextJS`  
-  - Integrated AI module into the backend to support voice processing and transformation features.  
-  - Designed and developed APIs for purchase workflows and usage statistics tracking.  
-  - Built a shareable page with a framable widget for sound replay functionality.  
-  - Performed bug fixing and ongoing maintenance for both the frontend and backend APIs.
+---
+
+### Backend Engineer
+**[Golden Owl Solutions Corporation](https://goldenowl.asia/)**
+_July 2023 – April 2025_
+Designed and maintained backend systems using Django and FastAPI across multiple client projects.
+
+#### Projects
+
+- **[Vividize](https://www.vividize.io/)** — `Django, DRF, PostgreSQL, Redis, Celery, AWS, GitHub Actions`
+  - Deployed AWS infrastructure (S3, EC2, RDS, Route 53, CloudFront) with CI/CD pipelines.
+  - Built AI-powered content server generating 6,000+ lessons.
+  - Optimized content delivery, reducing load time from 3 minutes to under 3 seconds.
+
+- **[InvestGlass](https://www.investglass.com/)** — `Django, DRF, MinIO, pgvector`
+  - Implemented RAG-based AI chat agent using OpenAI API for CRM document queries.
+  - Developed APIs for real-time risk calculation and portfolio backtesting.
+
+- **[eKYC](https://www.finexis.com.sg/)** — `Django, DRF, MySQL, Redis`
+  - Developed KYC workflow for financial consultants.
+  - Integrated Singpass and FWD for identity verification and insurance data.
+  - Implemented API throttling and rate limiting for system stability.
 
 ---
 
@@ -56,7 +65,9 @@ GPA: **8.93/10**
 
 ## Skills
 
-- **Languages:** Python, Ruby (basic proficiency)  
-- **Cloud & DevOps:** AWS, DigitalOcean, Cloudflare, Docker, GitHub Actions  
-- **Tools & Environments:** Linux, Git  
-- **Communication:** English — collaborated with clients from Singapore, Finland, and Switzerland
+- **Frameworks:** Django, Django REST Framework (DRF), Django Ninja, FastAPI
+- **Databases:** PostgreSQL, Redis, Clickhouse
+- **Message Queues & Streaming:** Kafka, RabbitMQ, Celery
+- **Cloud & Infrastructure:** AWS (S3, EC2, RDS, Bedrock, CloudFront, Route 53), DigitalOcean, Cloudflare
+- **DevOps:** Docker, Kubernetes (K8s), GitHub Actions, GitLab, CI/CD, Grafana
+- **AI/ML:** OpenAI API, AWS Bedrock, RAG systems, Claude Code

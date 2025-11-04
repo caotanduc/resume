@@ -74,6 +74,10 @@ table.skills-table {
   padding-right: 15px;
 }
 
+.company-block {
+  margin-bottom: 20px;
+}
+
 .experience {
   display: flex;
 }
