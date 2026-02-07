@@ -2,7 +2,7 @@
   font-family: 'Calibri Light';
   font-style: normal;
   font-weight: 300;
-  src: local('Calibri Light'), url('./fonts/calibril.woff') format('woff');
+  src: local('Calibri Light'), url('./fonts/calibril-subset.woff2') format('woff');
 }
 
 @font-face {
