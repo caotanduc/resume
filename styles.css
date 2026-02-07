@@ -14,11 +14,13 @@
 
 body {
   font-family: "Calibri Light", sans-serif;
+  font-size: 1em;
+  color: #000;
 }
 
 a {
   text-decoration: none;
-  color: black;
+  color: inherit;
 }
 
 .paper {
@@ -116,6 +118,10 @@ table.skills-table {
 
 .job-company {
   font-weight: bold;
+}
+
+.job-company a {
+  font-size: 1.15em;
 }
 
 .job-title {
