@@ -2,14 +2,14 @@
   font-family: 'Calibri Light';
   font-style: normal;
   font-weight: 300;
-  src: local('Calibri Light'), url('/fonts/calibril.woff') format('woff');
+  src: local('Calibri Light'), url('./fonts/calibril.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Georgia';
   font-style: normal;
   font-weight: 400;
-  src: local('Georgia'), url('/fonts/Georgia-PersonalUse.woff') format('woff');
+  src: local('Georgia'), url('./fonts/Georgia-PersonalUse.woff') format('woff');
 }
 
 body {
